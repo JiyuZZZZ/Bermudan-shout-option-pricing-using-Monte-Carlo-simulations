@@ -1,6 +1,6 @@
 # 💥 Bermudan Shout Option Pricing via Monte Carlo Simulation
 
-This project implements the pricing of a **Bermudan shout option** using simulated stock price paths under a geometric Brownian motion model.
+This project was completed as part of my MSc Financial Mathematics coursework. This project implements the pricing of a **Bermudan shout option** using simulated stock price paths under a geometric Brownian motion model.
 
 A Bermudan shout option allows the holder to “lock in” the intrinsic value of the asset at certain times before maturity. This code estimates its fair value via **Monte Carlo simulation**.
 
